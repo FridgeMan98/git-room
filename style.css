@@ -137,8 +137,8 @@ header h1 {
 .sofa {
     width: 140px;
     height: 60px;
-    background: var(--lavender);
-    border-radius: 8px;
+    background: red;
+    border-radius: 10px;
 }
 
 .tv-set {
