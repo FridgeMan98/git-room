@@ -158,14 +158,14 @@ header h1 {
 .tv .screen {
     width: 85%;
     height: 80%;
-    background: #666;
+    background: var(--green);
     border-radius: 2px;
 }
 
 .tv-stand {
     width: 90px;
     height: 15px;
-    background: var(--orange);
+    background: var(--blue);
     margin-top: 2px;
     border: none;
     border-radius: 4px;
